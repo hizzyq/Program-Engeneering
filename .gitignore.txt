@@ -1,0 +1,25 @@
+# Бинарные файлы
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
